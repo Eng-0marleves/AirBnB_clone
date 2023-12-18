@@ -68,6 +68,15 @@
   margin-bottom: 10px;
 }
 
+.places article .amenities {
+  margin-top: 40px;
+}
+
+.places article .amenities h2 {
+  font-size: 16px;
+  border-bottom: 1px solid #dddddd;
+}
+
 footer {
   position: relative;
 }

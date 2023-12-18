@@ -42,8 +42,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 40px 20px;
   border-radius: 50%;
+  padding: 20px;
 }
 
 .places article .information {

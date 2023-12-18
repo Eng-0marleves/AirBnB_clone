@@ -68,6 +68,27 @@
   margin-bottom: 10px;
 }
 
+.places article .amenities {
+  margin-top: 40px;
+}
+
+.places article .amenities h2 {
+  font-size: 16px;
+  border-bottom: 1px solid #dddddd;
+}
+
+.places article ul li {
+  margin-top: 20px;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.places article ul li p {
+  font-size: 12px;
+}
+
 footer {
   position: relative;
 }
